@@ -10,3 +10,15 @@ C:\Users\Admin\Documents\Visual C# Programs\Business Layer\bin\Debug\EntityFrame
 C:\Users\Admin\Documents\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Documents\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Documents\Visual C# Programs\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\Business Layer.dll.config
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.dll
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.xml
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\obj\Debug\Business Layer.csproj.CopyComplete
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\abhad\source\repos\Visual C# Programs\Business Layer\obj\Debug\Business Layer.pdb

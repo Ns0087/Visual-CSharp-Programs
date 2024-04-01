@@ -24,6 +24,9 @@ namespace Sample_01
         }
         static void Main(string[] args)
         {
+            var obj = new RabbitMQConnectionChecker();
+            obj.ConnectionChecker();
+
             string movieName;
             TimeSpan movieTiming;
             AllocateMovie("PVR", out movieTiming, out movieName);
